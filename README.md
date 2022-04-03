@@ -1,7 +1,7 @@
-## sksk
+# readme generator
 
   ## Licensing:
-  [![license](https://img.shields.io/badge/license-Apache,MIT-blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-Mozilla-Public,Common-Development-and Distribution-blue)](https://shields.io)
 
   ## Table of Contents 
   - [Description](#description)
@@ -12,23 +12,23 @@
   - [Additional Info](#additional-info)
 
   ## Description:
-  skks
+  lorem ipsum
 
   ## Installation:
-  akka
+  lorem ipsum
 
   ## Usage:
-  djjd
+  lorem ipsum
 
   ## License:
-  Apache,MIT
+  Mozilla-Public,Common-Development-and Distribution
 
   ## Contribution:
-  akka
+  i dont know
 
   ## Testing:
-  djjd
+  i dont know
 
   ## Additional Info:
-  - Github: [dkdkd](https://github.com/dkdkd)
-  - Email: akaka 
+  - Github: [sktrn**@yahoo.com](https://github.com/sktrn**@yahoo.com)
+  - Email: sksksksl 
